@@ -16,6 +16,8 @@ tags: Opencv-Python
     * segementor.removeBG:更改圖片背,並透過threshold來修正去背效果
     * cvzone.stackImages:將兩個cv2 camera畫面結合
 
+![image](https://github.com/jerryold/Opencv-Application/blob/master/Background%20Removal/Background.gif)
+
 
 * 參考連結
 https://www.youtube.com/watch?v=k7cVPGpnels&ab_channel=Murtaza%27sWorkshop-RoboticsandAI
