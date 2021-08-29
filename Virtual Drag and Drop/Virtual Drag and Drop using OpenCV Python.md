@@ -47,7 +47,7 @@ Draw Solid(移動實體圖片)
 
 
 
-
+![image](https://github.com/jerryold/Opencv-Application/blob/master/Virtual%20Drag%20and%20Drop/Virtual%20Drag.gif)
 
 
 
