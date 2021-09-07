@@ -43,6 +43,10 @@ tags: Opencv-Python
 
 
 
+https://user-images.githubusercontent.com/12774427/132369609-43cab0e4-4f4c-4586-9d65-74dd025a090a.mp4
+
+
+
 
 參考連結
 https://www.youtube.com/watch?v=VPaFV3QBsEw&ab_channel=Murtaza%27sWorkshop-RoboticsandAI
