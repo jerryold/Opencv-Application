@@ -68,10 +68,7 @@ Opencv顯示文字框和圖片至畫面上,並將剛剛所設置counter和狀態
                     cv2.FONT_HERSHEY_SIMPLEX, 2, (255,255,255), 2, cv2.LINE_AA)
 ```
 ## Demo影片
-
-
-
-
+https://user-images.githubusercontent.com/12774427/133878841-eea5d8ab-6164-4bb7-acf3-11f2a27f212e.mp4
 
 
 
